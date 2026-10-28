@@ -9,6 +9,8 @@
 
 ### `Automation Engineer` · `Quality Engineering` · `AI-Assisted Testing`
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist&weight=700&pause=1000&color=FFFFFF&width=444&lines=Driven+by+curiosity%2C+inspired+by+technology.;Turning+curiosity+into+code%2C+ideas+into+impact.;Building+reliable+systems+in+an+AI-driven+world.;Automate+the+repetitive%2C+innovate+the+meaningful." alt="Typing SVG" /></a>
+
 **Building reliable software through automation, continuous learning, and practical AI experiments.**
 
 <p>
@@ -34,23 +36,20 @@
 ```yaml
 name: Lakshya Kumar Yadav
 role: Automation Engineer
-organization: Accenture
-experience: 3+ years in software quality and automation
+experience: 4 years in software engineering
 background: B.Tech in Computer Science Engineering
 
 focus:
   - Test Automation & Quality Engineering
   - AI-assisted testing and engineering productivity
-  - Reusable automation frameworks
   - Web, mobile and API testing
-  - Reliable and maintainable software
+  - 
 
 currently_exploring:
   - LLM applications and evaluation
   - Agentic AI and AI agents
-  - Model Context Protocol (MCP)
-  - Prompt and context engineering
   - Responsible and secure AI
+  - Cloud Engineering Solutions
 ```
 
 I'm an Automation Engineer with experience in building and improving automation frameworks, validating application behaviour, and making repetitive testing activities more efficient.
@@ -92,12 +91,19 @@ I believe good engineering is not just about making things work. It's about maki
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### AI & Emerging Technologies
+### 🤖 AI & Developer Productivity Tools
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-7C3AED?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Q](https://img.shields.io/badge/Amazon_Q-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
+### ☁️ Cloud Platforms
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 Exploring AI-assisted development, LLM application testing, prompt engineering, MCP, AI agents, and evaluation of AI-generated outputs.
 
 ---
