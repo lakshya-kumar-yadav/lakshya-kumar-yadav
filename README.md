@@ -56,12 +56,6 @@ currently_exploring:
   - Cloud Engineering Solutions
 ```
 
-I'm an Automation Engineer with experience in building and improving automation frameworks, validating application behaviour, and making repetitive testing activities more efficient.
-
-My work has involved web and mobile automation, reusable testing components, API validation, and CI/CD-based test execution. I'm also exploring how AI tools and agentic workflows can support software engineering without compromising quality, security, or accountability.
-
-I believe good engineering is not just about making things work. It's about making them **reliable, maintainable, testable, and useful**.
-
 ---
 
 ## `~/tech-stack`
@@ -235,10 +229,17 @@ I'm interested in connecting with engineers, testers, and builders working on au
 
 ---
 
+
 <div align="center">
 
-### Less hype. More experiments. Better engineering.
+### A Guiding Principle
 
-*Building my next chapter, one project at a time.*
+*“You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, nor be attached to inaction.”*
+
+**— Bhagavad Gita 2.47**
+
+<br/>
+
+*Learn with curiosity. Work with sincerity. Let go of the outcome.*
 
 </div>
