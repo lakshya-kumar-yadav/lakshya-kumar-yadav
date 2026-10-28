@@ -1,10 +1,231 @@
-- 👋 Hi, I’m @lakshya-kumar-yadav
-- 👀 I’m interested in ...Web Development, Database Management System
-- 🌱 I’m currently learning ...Java, HTML/CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mail me => lakshyakumaryadav007@gmail.com
+<!--
+  Lakshya Kumar Yadav | GitHub Profile README
+  Replace the existing README.md with this content.
+-->
 
-<!---
-lakshya-kumar-yadav/lakshya-kumar-yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+# 👋 Hi, I'm Lakshya Kumar Yadav
+
+### `Automation Engineer` · `Quality Engineering` · `AI-Assisted Testing`
+
+**Building reliable software through automation, continuous learning, and practical AI experiments.**
+
+<p>
+  <a href="https://www.linkedin.com/in/lakshya-kumar-yadav-40876736b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/lakshya-kumar-yadav">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=lakshya-kumar-yadav&style=flat-square&color=blueviolet)
+
+</div>
+
+---
+
+## `~/about-me`
+
+```yaml
+name: Lakshya Kumar Yadav
+role: Automation Engineer
+organization: Accenture
+experience: 3+ years in software quality and automation
+background: B.Tech in Computer Science Engineering
+
+focus:
+  - Test Automation & Quality Engineering
+  - AI-assisted testing and engineering productivity
+  - Reusable automation frameworks
+  - Web, mobile and API testing
+  - Reliable and maintainable software
+
+currently_exploring:
+  - LLM applications and evaluation
+  - Agentic AI and AI agents
+  - Model Context Protocol (MCP)
+  - Prompt and context engineering
+  - Responsible and secure AI
+```
+
+I'm an Automation Engineer with experience in building and improving automation frameworks, validating application behaviour, and making repetitive testing activities more efficient.
+
+My work has involved web and mobile automation, reusable testing components, API validation, and CI/CD-based test execution. I'm also exploring how AI tools and agentic workflows can support software engineering without compromising quality, security, or accountability.
+
+I believe good engineering is not just about making things work. It's about making them **reliable, maintainable, testable, and useful**.
+
+---
+
+## `~/tech-stack`
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Automation & Quality Engineering
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-EE376D?style=flat-square&logo=appium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=black)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+- UI, mobile, API, functional, regression and end-to-end testing
+- Page Object Model (POM), reusable components and data-driven testing
+- Dynamic XPath, CSS selectors and OCR-based text validation
+- REST API testing, database validation and defect analysis
+
+### DevOps & Engineering Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### AI & Emerging Technologies
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+Exploring AI-assisted development, LLM application testing, prompt engineering, MCP, AI agents, and evaluation of AI-generated outputs.
+
+---
+
+## `~/selected-work`
+
+### 🔎 OCR-Based Text Validation
+
+**Professional engineering experience · Accenture**
+
+Developed a reusable OCR-based automation module to extract and validate text rendered inside images when conventional DOM-based automation could not access the required content.
+
+- Extended automation coverage beyond conventional DOM locators.
+- Created a reusable capability for other QA engineers.
+- Applied to relevant web and mobile testing scenarios.
+
+`OCR` `Test Automation` `Reusable Components` `Quality Engineering`
+
+*Professional implementation details and source code are not published here.*
+
+### 🌐 Cross-Browser Functionality Validation
+
+**Professional engineering experience · Accenture**
+
+Developed a reusable cross-browser functionality module to help validate application behaviour across different browsers.
+
+- Supported consistent functional validation across browser environments.
+- Made reusable testing capabilities available to other QA engineers.
+- Focused on maintainability and repeatable test execution.
+
+`Cross-Browser Testing` `Automation Frameworks` `Regression Testing`
+
+*Implementation details are kept general to respect professional confidentiality.*
+
+### 🏥 Health Check — Android Application
+
+**Academic project**
+
+An Android application developed as a college project, bringing together healthcare-related features in one place.
+
+Features implemented:
+- User authentication and profile management
+- Vaccination information and tracking
+- Appointment management
+- Chat using WebSockets
+- Reminders
+
+The confirmed implementation used direct JDBC database connectivity and WebSocket communication from the Android application.
+
+`Android` `Java` `JDBC` `WebSockets`
+
+### 🕒 ETAM System — Employee Timesheet & Access Management
+
+**Supertech project**
+
+A real-time office check-in and check-out tracking system designed to support employee attendance and office access tracking.
+
+The project is included as part of my project history. The technology stack and implementation details can be documented further when verified.
+
+`Employee Tracking` `Attendance Management` `System Design`
+
+### ☕ IP Address Finder in Java
+
+A Java project available in my public repositories.
+
+[Explore the repository →](https://github.com/lakshya-kumar-yadav/IP-address-finder-in-java)
+
+`Java` `Networking Fundamentals`
+
+---
+
+## `~/now`
+
+### 🔬 What I'm currently learning
+
+- AI-assisted software engineering and developer productivity
+- LLM application testing and evaluation
+- Agentic AI architectures and tool usage
+- Model Context Protocol (MCP) and AI integrations
+- Prompt engineering and structured outputs
+- Responsible AI: security, accountability, resilience and accessibility
+- Better GitHub documentation and project presentation
+
+### 🧠 How I approach engineering
+
+I like understanding why something fails, identifying a repeatable way to detect it, and improving the process so the same problem is easier to investigate next time.
+
+I'm interested in applying AI where it provides measurable value—not just because it's new, but because it can help engineers work more effectively while keeping reliability and human oversight in focus.
+
+My approach:
+
+**Learn → Build → Test → Measure → Improve**
+
+---
+
+## `~/github-activity`
+
+<div align="center">
+
+<a href="https://github.com/lakshya-kumar-yadav">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshya-kumar-yadav&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/lakshya-kumar-yadav">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-kumar-yadav&layout=compact&hide_border=true" alt="Most-used languages"/>
+</a>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lakshya-kumar-yadav&hide_border=true)](https://github.com/lakshya-kumar-yadav)
+
+</div>
+
+*Statistics and visualizations depend on third-party services and may take time to load.*
+
+---
+
+## `~/connect`
+
+I'm interested in connecting with engineers, testers, and builders working on automation, AI-assisted engineering, and reliable software systems.
+
+- 💼 **LinkedIn:** [Lakshya Kumar Yadav](https://www.linkedin.com/in/lakshya-kumar-yadav-40876736b)
+- 💻 **GitHub:** [@lakshya-kumar-yadav](https://github.com/lakshya-kumar-yadav)
+
+---
+
+<div align="center">
+
+### Less hype. More experiments. Better engineering.
+
+*Building my next chapter, one project at a time.*
+
+</div>
