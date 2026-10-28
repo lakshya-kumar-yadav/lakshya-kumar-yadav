@@ -9,7 +9,9 @@
 
 ### `Automation Engineer` · `Quality Engineering` · `AI-Assisted Testing`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist&weight=700&pause=1000&color=FFFFFF&width=444&lines=Driven+by+curiosity%2C+inspired+by+technology.;Turning+curiosity+into+code%2C+ideas+into+impact.;Building+reliable+systems+in+an+AI-driven+world.;Automate+the+repetitive%2C+innovate+the+meaningful." alt="Typing SVG" /></a>
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist&weight=700&pause=1000&color=ABFF92&center=true&vCenter=true&width=490&lines=Driven+by+curiosity%2C+inspired+by+technology.;Turning+curiosity+into+code%2C+ideas+into+impact.;Building+reliable+systems+in+an+AI-driven+world.;Automate+the+repetitive%2C+innovate+the+meaningful." alt="Typing SVG" /></a>
+</div>
 
 **Building reliable software through automation, continuous learning, and practical AI experiments.**
 
@@ -43,7 +45,6 @@ focus:
   - Test Automation & Quality Engineering
   - AI-assisted testing and engineering productivity
   - Web, mobile and API testing
-  - 
 
 currently_exploring:
   - LLM applications and evaluation
