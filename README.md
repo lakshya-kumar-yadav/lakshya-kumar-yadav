@@ -18,9 +18,12 @@
   <a href="https://github.com/lakshya-kumar-yadav">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.credly.com/users/lakshya-kumar-yadav/badges/credly">
+  <img src="https://img.shields.io/badge/CERTIFICATIONS-CREDLY-10766E?style=for-the-badge&logo=credly&logoColor=white&labelColor=555555" alt="Certifications - Credly"/>
+</a>
+</a>
+</a>
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=lakshya-kumar-yadav&style=flat-square&color=blueviolet)
 
 </div>
 
