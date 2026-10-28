@@ -22,6 +22,9 @@
   <a href="https://github.com/lakshya-kumar-yadav">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="mailto:lakshyakumaryadav007@gmail.com?subject=Hello%20Lakshya">
+  <img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email - Say Hello"/>
+</a>
   <a href="https://www.credly.com/users/lakshya-kumar-yadav/badges/credly">
   <img src="https://img.shields.io/badge/CERTIFICATIONS-CREDLY-10766E?style=for-the-badge&logo=credly&logoColor=white&labelColor=555555" alt="Certifications - Credly"/>
 </a>
@@ -63,28 +66,25 @@ I believe good engineering is not just about making things work. It's about maki
 
 ## `~/tech-stack`
 
-### Languages
+<div align="center">
+
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### Automation & Quality Engineering
+### 🧪 Automation & Quality Engineering
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-EE376D?style=flat-square&logo=appium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=black)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-- UI, mobile, API, functional, regression and end-to-end testing
-- Page Object Model (POM), reusable components and data-driven testing
-- Dynamic XPath, CSS selectors and OCR-based text validation
-- REST API testing, database validation and defect analysis
-
-### DevOps & Engineering Tools
+### ⚙️ DevOps & Engineering Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -105,18 +105,23 @@ I believe good engineering is not just about making things work. It's about maki
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-Exploring AI-assisted development, LLM application testing, prompt engineering, MCP, AI agents, and evaluation of AI-generated outputs.
+
+</div>
+
 
 ---
 
+
 ## `~/selected-work`
 
-### 🔎 OCR-Based Text Validation
+<details>
+<summary><h4>🔎 OCR-Based Text Validation</h4></summary>
 
 **Professional engineering experience · Accenture**
 
 Developed a reusable OCR-based automation module to extract and validate text rendered inside images when conventional DOM-based automation could not access the required content.
 
+**Key contributions**
 - Extended automation coverage beyond conventional DOM locators.
 - Created a reusable capability for other QA engineers.
 - Applied to relevant web and mobile testing scenarios.
@@ -125,12 +130,16 @@ Developed a reusable OCR-based automation module to extract and validate text re
 
 *Professional implementation details and source code are not published here.*
 
-### 🌐 Cross-Browser Functionality Validation
+</details>
+
+<details>
+<summary><h4>🌐 Cross-Browser Functionality Validation</h4></summary>
 
 **Professional engineering experience · Accenture**
 
 Developed a reusable cross-browser functionality module to help validate application behaviour across different browsers.
 
+**Key contributions**
 - Supported consistent functional validation across browser environments.
 - Made reusable testing capabilities available to other QA engineers.
 - Focused on maintainability and repeatable test execution.
@@ -139,13 +148,16 @@ Developed a reusable cross-browser functionality module to help validate applica
 
 *Implementation details are kept general to respect professional confidentiality.*
 
-### 🏥 Health Check — Android Application
+</details>
+
+<details>
+<summary><h4>🏥 Health Check — Android Application</h4></summary>
 
 **Academic project**
 
 An Android application developed as a college project, bringing together healthcare-related features in one place.
 
-Features implemented:
+**Features implemented**
 - User authentication and profile management
 - Vaccination information and tracking
 - Appointment management
@@ -156,17 +168,23 @@ The confirmed implementation used direct JDBC database connectivity and WebSocke
 
 `Android` `Java` `JDBC` `WebSockets`
 
-### 🕒 ETAM System — Employee Timesheet & Access Management
+</details>
+
+<details>
+<summary><h4>🕒 ETAM System — Employee Timesheet & Access Management</h4></summary>
 
 **Supertech project**
 
 A real-time office check-in and check-out tracking system designed to support employee attendance and office access tracking.
 
-The project is included as part of my project history. The technology stack and implementation details can be documented further when verified.
+The technology stack and additional implementation details can be documented further when verified.
 
 `Employee Tracking` `Attendance Management` `System Design`
 
-### ☕ IP Address Finder in Java
+</details>
+
+<details>
+<summary><h4>☕ IP Address Finder in Java</h4></summary>
 
 A Java project available in my public repositories.
 
@@ -174,11 +192,14 @@ A Java project available in my public repositories.
 
 `Java` `Networking Fundamentals`
 
+</details>
+
 ---
 
 ## `~/now`
 
-### 🔬 What I'm currently learning
+<details>
+<summary><h4>🔬 Ongoing Learnings</h4></summary>
 
 - AI-assisted software engineering and developer productivity
 - LLM application testing and evaluation
@@ -186,40 +207,22 @@ A Java project available in my public repositories.
 - Model Context Protocol (MCP) and AI integrations
 - Prompt engineering and structured outputs
 - Responsible AI: security, accountability, resilience and accessibility
-- Better GitHub documentation and project presentation
+- Cloud engineering solutions
 
-### 🧠 How I approach engineering
+</details>
+
+<details>
+<summary><h4>🧠 Engineering Approach</h4></summary>
 
 I like understanding why something fails, identifying a repeatable way to detect it, and improving the process so the same problem is easier to investigate next time.
 
 I'm interested in applying AI where it provides measurable value—not just because it's new, but because it can help engineers work more effectively while keeping reliability and human oversight in focus.
 
-My approach:
+**My approach:**
 
-**Learn → Build → Test → Measure → Improve**
+### Learn → Build → Test → Measure → Improve
 
----
-
-## `~/github-activity`
-
-<div align="center">
-
-<a href="https://github.com/lakshya-kumar-yadav">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshya-kumar-yadav&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/lakshya-kumar-yadav">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya-kumar-yadav&layout=compact&hide_border=true" alt="Most-used languages"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lakshya-kumar-yadav&hide_border=true)](https://github.com/lakshya-kumar-yadav)
-
-</div>
-
-*Statistics and visualizations depend on third-party services and may take time to load.*
+</details>
 
 ---
 
